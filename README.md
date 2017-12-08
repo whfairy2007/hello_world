@@ -1,3 +1,1 @@
-# hello_world
-first try
-writing in a branch 
+MATLAB code of sparse Bayesian learning
